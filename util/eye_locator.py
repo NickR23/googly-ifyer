@@ -19,5 +19,5 @@ def get_highlighted_eyes(img_path):
 
 
 if __name__ == '__main__':
-    scary_danny = get_highlighted_eyes('./assets/danny.jpg')
-    scary_danny.save('./output/danny.jpg')
+    scary_danny = get_highlighted_eyes('./assets/frank.jpg')
+    scary_danny.save('./output/frank.jpg')

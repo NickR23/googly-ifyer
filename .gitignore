@@ -9,3 +9,12 @@ output
 
 # Ignore pycache
 __pycache__
+
+# Ignore package
+package-lock.json
+
+# Ignore output
+output/*
+
+# Ignore node modules
+node_modules

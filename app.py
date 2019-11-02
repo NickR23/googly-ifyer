@@ -8,10 +8,15 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
+    return "Welcome!"
+
+
+@app.route('/butterfly')
+def butterfly():
     message = art('butterfly') + " " + art("woman") \
-          + " Butterfly may the boogie be with you " \
-          + art('butterfly') \
-          + " " + art("woman")
+              + " Butterfly may the boogie be with you " \
+              + art('butterfly') \
+              + " " + art("woman")
     return message
 
 

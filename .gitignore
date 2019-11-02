@@ -1,0 +1,11 @@
+# Ignore base
+base
+
+# Ignore output
+output
+
+# Ignore .idea
+.idea
+
+# Ignore pycache
+__pycache__

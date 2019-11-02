@@ -2,7 +2,8 @@
 base
 
 # Ignore output
-output
+output/frank.jpg
+output/danny.jpg
 
 # Ignore .idea
 .idea

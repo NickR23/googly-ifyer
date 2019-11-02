@@ -1,2 +1,2 @@
 # googly-ifyer
-![Frankie Ocean]('output/pasted.png')
+![picture](output/pasted.png)
